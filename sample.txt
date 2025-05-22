@@ -4,4 +4,8 @@ abcde
 あいうえお
 アイウエオ
 かきくけこ
+<<<<<<< HEAD
 
+=======
+カキクケコ
+>>>>>>> 78e7aba (Revert "cleen" (+1 squashed commits))
